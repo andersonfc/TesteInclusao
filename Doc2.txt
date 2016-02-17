@@ -2,3 +2,4 @@ Linha 1
 Linha 2
 Linha 3
 Linha 4 Foi excluida com undo do GitHub e agora foi adicionada novamente
+Linha 5
